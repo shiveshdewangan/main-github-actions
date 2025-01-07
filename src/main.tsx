@@ -8,7 +8,7 @@ import WatchList from './pages/WatchList.tsx';
 import SeenIt from './pages/SeenIt.tsx';
 import ErrorPage from './pages/ErrorPage.tsx';
 
-//comment
+//comments
 
 const router = createBrowserRouter([
   {
